@@ -27,10 +27,10 @@ const MinimalArea2 = () => {
             <div className="content">
               <h4>
                 {" "}
-                <span className="color-font1">Solana. </span>
+                <span className="color-font1">SOLANA. </span>
                 <br />
                 <span className="color-font">Blockchain & AI</span>
-                <br /> <span className="color-font">Solai.</span>{" "}
+                <br /> <span className="color-font">SOLAI.</span>{" "}
               </h4>
               {/* <Split> */}
               <p className="wow txt words chars splitting" data-splitting>

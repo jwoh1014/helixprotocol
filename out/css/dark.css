@@ -157,13 +157,29 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#494CF1),
-    color-stop(#6ABFE9),
+    from(#FA7398),
+    color-stop(#FDC15A),
     to(#F1D258)
   );
-  background: -webkit-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: -o-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: linear-gradient(to right, #494CF1, #6ABFE9, #F1D258);
+  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.color-font1 {
+  background: -webkit-gradient(
+    linear,
+    left top,
+    right top,
+    from(#A359E7),
+    color-stop(#7785D5),
+    to(#17E6AD)
+  );
+  font-weight: 900;
+  background: -webkit-linear-gradient(left, #A359E7, #7785D5, #17E6AD);
+  background: -o-linear-gradient(left, #A359E7, #7785D5, #17E6AD);
+  background: linear-gradient(to right, #A359E7, #7785D5, #17E6AD);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -173,13 +189,13 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#494CF1),
-    color-stop(#6ABFE9),
+    from(#FA7398),
+    color-stop(#FDC15A),
     to(#F1D258)
   );
-  background: -webkit-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: -o-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: linear-gradient(to right, #494CF1, #6ABFE9, #F1D258);
+  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
 }
 /* f64f59 */
 
@@ -191,13 +207,13 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#494CF1),
-    color-stop(#6ABFE9),
+    from(#FA7398),
+    color-stop(#FDC15A),
     to(#F1D258)
   );
-  background: -webkit-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: -o-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: linear-gradient(to right, #494CF1, #6ABFE9, #F1D258);
+  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
 }
 
 .line.top {
@@ -261,7 +277,7 @@ span:hover {
 }
 
 .main-color {
-  color: #494CF1 !important;
+  color: #FA7398 !important;
 }
 
 .bg-gray {
@@ -283,7 +299,7 @@ span:hover {
 }
 
 .bg-color {
-  background-color: #494CF1 !important;
+  background-color: #FA7398 !important;
 }
 
 .bg-color .primery-shadow {
@@ -1035,18 +1051,18 @@ span:hover {
   right: 100%;
   height: 100%;
   width: 100%;
-  background: #494CF1,;
+  background: #FA7398,;
   background: -webkit-gradient(
     linear,
     left top,
     right top,
-    from(#494CF1),
-    color-stop(#6ABFE9),
+    from(#FA7398),
+    color-stop(#FDC15A),
     to(#F1D258)
   );
-  background: -webkit-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: -o-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: linear-gradient(to right, #494CF1, #6ABFE9, #F1D258);
+  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
 }
 
 .pace.pace-inactive {
@@ -1295,7 +1311,7 @@ span:hover {
   width: 6px;
   height: 6px;
   z-index: 10000001;
-  background-color: #494CF1;
+  background-color: #FA7398;
   -webkit-transition: width 0.3s ease-in-out, height 0.3s ease-in-out,
     margin 0.3s ease-in-out, opacity 0.3s ease-in-out;
   -o-transition: width 0.3s ease-in-out, height 0.3s ease-in-out,
@@ -1309,7 +1325,7 @@ span:hover {
   margin-top: -35px;
   width: 70px;
   height: 70px;
-  background-color: #494CF1;
+  background-color: #FA7398;
   opacity: 0.3;
 }
 
@@ -1318,7 +1334,7 @@ span:hover {
   margin-top: -12px;
   width: 30px;
   height: 30px;
-  border: 1px solid #494CF1;
+  border: 1px solid #FA7398;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   z-index: 10000000;
@@ -1370,7 +1386,7 @@ span:hover {
   line-height: 44px;
   font-size: 13px;
   font-weight: 900;
-  color: #494CF1;
+  color: #FA7398;
   left: 0;
   top: 0;
   height: 44px;
@@ -1388,7 +1404,7 @@ span:hover {
 }
 
 .progress-wrap svg.progress-circle path {
-  stroke: #494CF1;
+  stroke: #FA7398;
   stroke-width: 4;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -1602,13 +1618,13 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#494CF1),
-    color-stop(#6ABFE9),
+    from(#FA7398),
+    color-stop(#FDC15A),
     to(#F1D258)
   );
-  background: -webkit-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: -o-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: linear-gradient(to right, #494CF1, #6ABFE9, #F1D258);
+  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
   padding: 7px 12px;
   border-radius: 10px;
 }
@@ -1706,13 +1722,13 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#494CF1),
-    color-stop(#6ABFE9),
+    from(#FA7398),
+    color-stop(#FDC15A),
     to(#F1D258)
   );
-  background: -webkit-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: -o-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: linear-gradient(to right, #494CF1, #6ABFE9, #F1D258);
+  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
   border: transparent;
 }
 
@@ -1796,7 +1812,7 @@ span:hover {
 
 .navbar .navbar-nav .dropdown-item:hover {
   background: transparent;
-  color: #494CF1;
+  color: #FA7398;
 }
 
 .navbar .dropdown-menu {
@@ -1836,7 +1852,7 @@ span:hover {
   content: "";
   width: 0px;
   height: 1px;
-  background: #494CF1;
+  background: #FA7398;
   position: absolute;
   left: 10px;
   top: 50%;
@@ -1891,7 +1907,7 @@ span:hover {
   text-align: left;
   background: transparent;
   border: 0;
-  border-bottom: 2px solid #494CF1;
+  border-bottom: 2px solid #FA7398;
 }
 
 .navbar .search .search-form .close {
@@ -2337,7 +2353,7 @@ span:hover {
 }
 
 .slider .parallax-slider .caption .thin {
-  color: #494CF1;
+  color: #FA7398;
   font-size: 30px;
   font-weight: 300;
   text-transform: uppercase;
@@ -2356,7 +2372,7 @@ span:hover {
 }
 
 .slider .parallax-slider .caption .thin span {
-  color: #494CF1;
+  color: #FA7398;
 }
 
 .slider .parallax-slider .caption h1 {
@@ -2623,13 +2639,13 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#494CF1),
-    color-stop(#6ABFE9),
+    from(#FA7398),
+    color-stop(#FDC15A),
     to(#F1D258)
   );
-  background: -webkit-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: -o-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: linear-gradient(to right, #494CF1, #6ABFE9, #F1D258);
+  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
   border-radius: 15px;
   -webkit-transform: rotate(-3deg);
   -ms-transform: rotate(-3deg);
@@ -2743,13 +2759,13 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#494CF1),
-    color-stop(#6ABFE9),
+    from(#FA7398),
+    color-stop(#FDC15A),
     to(#F1D258)
   );
-  background: -webkit-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: -o-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: linear-gradient(to right, #494CF1, #6ABFE9, #F1D258);
+  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
   z-index: -2;
 }
 
@@ -2823,13 +2839,13 @@ span:hover {
     linear,
     right top,
     left top,
-    from(#494CF1),
-    color-stop(#6ABFE9),
+    from(#FA7398),
+    color-stop(#FDC15A),
     to(#F1D258)
   );
-  background: -webkit-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: -o-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: linear-gradient(to right, #494CF1, #6ABFE9, #F1D258);
+  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
   position: absolute;
   top: -5px;
   left: -5px;
@@ -3340,7 +3356,7 @@ span:hover {
   font-size: 20px;
   font-weight: 300;
   text-transform: capitalize;
-  color: #494CF1;
+  color: #FA7398;
 }
 
 .works-header .capt .bactxt {
@@ -3391,10 +3407,10 @@ span:hover {
   width: 500px;
   height: 500px;
   border-radius: 70%;
-  background-image: -webkit-linear-gradient(45deg, #059dff, #36c6f0);
-  background-image: -o-linear-gradient(45deg, #059dff, #36c6f0);
-  background-image: linear-gradient(45deg, #059dff, #36c6f0);
-  opacity: 0.25;
+  background-image: -webkit-linear-gradient(45deg, #FA7398, #F1D258);
+  background-image: -o-linear-gradient(45deg, #FA7398, #F1D258);
+  background-image: linear-gradient(45deg, #FA7398, #F1D258);
+  opacity: 0.3;
   -webkit-filter: blur(100px);
   filter: blur(100px);
 }
@@ -3404,9 +3420,9 @@ span:hover {
   top: -250px;
   right: -250px;
   bottom: auto;
-  background-image: -webkit-linear-gradient(45deg, #fb5343, #6549d5);
-  background-image: -o-linear-gradient(45deg, #fb5343, #6549d5);
-  background-image: linear-gradient(45deg, #fb5343, #6549d5);
+  background-image: -webkit-linear-gradient(45deg, #F1D258, #FA7398);
+  background-image: -o-linear-gradient(45deg, #F1D258, #FA7398);
+  background-image: linear-gradient(45deg, #F1D258, #FA7398);
 }
 
 .main-content {
@@ -3842,7 +3858,7 @@ span:hover {
 }
 
 .about .ftbox ul li .icon {
-  color: #494CF1;
+  color: #FA7398;
   font-size: 30px;
   margin-bottom: 20px;
 }
@@ -3956,7 +3972,7 @@ span:hover {
 }
 
 .agency .img .icon svg {
-  fill: #494CF1;
+  fill: #FA7398;
   width: 90px;
 }
 
@@ -3977,7 +3993,7 @@ span:hover {
   content: "";
   width: 30px;
   height: 1px;
-  background: #494CF1;
+  background: #FA7398;
   position: absolute;
   left: -40px;
   top: 45%;
@@ -4030,13 +4046,13 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#494CF1),
-    color-stop(#6ABFE9),
+    from(#FA7398),
+    color-stop(#FDC15A),
     to(#F1D258)
   );
-  background: -webkit-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: -o-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: linear-gradient(to right, #494CF1, #6ABFE9, #F1D258);
+  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
   z-index: -2;
 }
 
@@ -4258,7 +4274,7 @@ span:hover {
 .intro-section .htit span {
   font-size: 17px;
   font-weight: 300;
-  color: #494CF1;
+  color: #FA7398;
   margin-right: 5px;
 }
 
@@ -4412,13 +4428,13 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#494CF1),
-    color-stop(#6ABFE9),
+    from(#FA7398),
+    color-stop(#FDC15A),
     to(#F1D258)
   );
-  background: -webkit-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: -o-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: linear-gradient(to right, #494CF1, #6ABFE9, #F1D258);
+  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
   z-index: -1;
   opacity: 0.05;
 }
@@ -4475,7 +4491,7 @@ span:hover {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #494CF1;
+  background: #FA7398;
   -webkit-transition: all 0.4s;
   -o-transition: all 0.4s;
   transition: all 0.4s;
@@ -4489,7 +4505,7 @@ span:hover {
 
 .services .mas-item .icon {
   font-size: 45px;
-  color: #494CF1;
+  color: #FA7398;
   margin-bottom: 30px;
 }
 
@@ -4537,18 +4553,18 @@ span:hover {
 }
 
 .services .step-item .icon {
-  color: #494CF1;
+  color: #FA7398;
   background: -webkit-gradient(
     linear,
     left top,
     right top,
-    from(#494CF1),
-    color-stop(#6ABFE9),
+    from(#FA7398),
+    color-stop(#FDC15A),
     to(#F1D258)
   );
-  background: -webkit-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: -o-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: linear-gradient(to right, #494CF1, #6ABFE9, #F1D258);
+  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-size: 40px;
@@ -4567,7 +4583,7 @@ span:hover {
 }
 
 .services .item .icon {
-  color: #494CF1;
+  color: #FA7398;
   font-size: 40px;
   margin-bottom: 40px;
 }
@@ -4626,13 +4642,13 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#494CF1),
-    color-stop(#6ABFE9),
+    from(#FA7398),
+    color-stop(#FDC15A),
     to(#F1D258)
   );
-  background: -webkit-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: -o-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: linear-gradient(to right, #494CF1, #6ABFE9, #F1D258);
+  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
   z-index: -2;
   opacity: 0;
   -webkit-transition: all 0.4s;
@@ -4856,13 +4872,13 @@ span:hover {
 }
 
 .min-area .content ul.feat li h6 span {
-  color: #494CF1;
+  color: #FA7398;
   width: 30px;
   height: 30px;
   line-height: 30px;
   text-align: center;
   font-size: 13px;
-  border: 1px solid #494CF1;
+  border: 1px solid #FA7398;
   border-radius: 50%;
   margin-right: 10px;
 }
@@ -5022,14 +5038,14 @@ span:hover {
 }
 
 .portfolio .filtering span.active {
-  color: #494CF1;
+  color: #FA7398;
 }
 
 .portfolio .filtering span:after {
   content: "";
   width: 7px;
   height: 7px;
-  background: #494CF1;
+  background: #FA7398;
   border-radius: 50%;
   position: absolute;
   right: -24px;
@@ -5058,14 +5074,14 @@ span:hover {
 }
 
 .portfolio .filtering.smplx span.active {
-  color: #494CF1;
+  color: #FA7398;
 }
 
 .portfolio .filtering.smplx span:after {
   content: "";
   width: 7px;
   height: 7px;
-  background: #494CF1;
+  background: #FA7398;
   border-radius: 50%;
   position: absolute;
   right: -24px;
@@ -5262,7 +5278,7 @@ span:hover {
   content: "";
   width: 100%;
   height: 2px;
-  background-color: #494CF1;
+  background-color: #FA7398;
   position: absolute;
   left: 0;
   bottom: -10px;
@@ -5273,7 +5289,7 @@ span:hover {
 }
 
 .portfolio-cr .filtering .active {
-  color: #494CF1;
+  color: #FA7398;
 }
 
 .portfolio-cr .filtering .active:after {
@@ -5366,7 +5382,7 @@ span:hover {
   content: "";
   width: 100%;
   height: 2px;
-  background-color: #494CF1;
+  background-color: #FA7398;
   position: absolute;
   left: 0;
   bottom: -10px;
@@ -5377,7 +5393,7 @@ span:hover {
 }
 
 .portfolio-frl .filtering .active {
-  color: #494CF1;
+  color: #FA7398;
 }
 
 .portfolio-frl .filtering .active:after {
@@ -6065,7 +6081,7 @@ span:hover {
   position: absolute;
   content: "";
   width: 75px;
-  border-top: 2px dashed #494CF1;
+  border-top: 2px dashed #FA7398;
   top: 75px;
   right: -35px;
 }
@@ -6180,13 +6196,13 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#494CF1),
+    from(#FA7398),
     color-stop(#F1D258),
-    to(#494CF1)
+    to(#FA7398)
   );
-  background: -webkit-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: -o-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: linear-gradient(to right, #494CF1, #6ABFE9, #F1D258);
+  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
   -webkit-transition: all 1.5s;
   -o-transition: all 1.5s;
   transition: all 1.5s;
@@ -6237,7 +6253,7 @@ span:hover {
   top: 50%;
   width: 5px;
   height: 1px;
-  background: #494CF1;
+  background: #FA7398;
 }
 
 /* ====================== [ Start tabs & list ] ====================== */
@@ -6284,13 +6300,13 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#494CF1),
+    from(#FA7398),
     color-stop(#F1D258),
-    to(#494CF1)
+    to(#FA7398)
   );
-  background: -webkit-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: -o-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: linear-gradient(to right, #494CF1, #6ABFE9, #F1D258);
+  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
   opacity: 0;
   z-index: -1;
   -webkit-transition: all 0.7s;
@@ -6325,7 +6341,7 @@ span:hover {
 
 .team .item.cir .info span {
   font-size: 13px;
-  color: #494CF1;
+  color: #FA7398;
 }
 
 .team .item .img {
@@ -6362,13 +6378,13 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#494CF1),
+    from(#FA7398),
     color-stop(#F1D258),
-    to(#494CF1)
+    to(#FA7398)
   );
-  background: -webkit-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: -o-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: linear-gradient(to right, #494CF1, #6ABFE9, #F1D258);
+  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
   opacity: 0;
   z-index: -1;
   -webkit-transition: all 0.7s;
@@ -6377,7 +6393,7 @@ span:hover {
 }
 
 .team.bord .item:hover .img:after {
-  border-color: #494CF1;
+  border-color: #FA7398;
   opacity: 1;
   -webkit-transform: rotate(0deg) !important;
   -ms-transform: rotate(0deg) !important;
@@ -6420,7 +6436,7 @@ span:hover {
 
 .team.bord .item .info span {
   font-size: 13px;
-  color: #494CF1;
+  color: #FA7398;
 }
 
 .team .slick-dots {
@@ -6428,7 +6444,7 @@ span:hover {
 }
 
 .team .slick-dots li.slick-active button {
-  background: #494CF1;
+  background: #FA7398;
 }
 
 .team .slick-dots li button {
@@ -6447,7 +6463,7 @@ span:hover {
   top: 4px;
   left: 4px;
   line-height: 1;
-  background: #494CF1;
+  background: #FA7398;
   opacity: 1;
 }
 
@@ -6698,7 +6714,7 @@ span:hover {
 
 .testimonials .arrows .next:hover,
 .testimonials .arrows .prev:hover {
-  border-color: #494CF1;
+  border-color: #FA7398;
 }
 
 .testimonials .arrows .prev {
@@ -6807,13 +6823,13 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#494CF1),
+    from(#FA7398),
     color-stop(#F1D258),
-    to(#494CF1)
+    to(#FA7398)
   );
-  background: -webkit-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: -o-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: linear-gradient(to right, #494CF1, #6ABFE9, #F1D258);
+  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
   z-index: -4;
 }
 
@@ -6829,7 +6845,7 @@ span:hover {
 }
 
 .block-sec .testim-box .head-box h6 {
-  color: #494CF1;
+  color: #FA7398;
   font-size: 12px;
   font-weight: 300;
   text-transform: uppercase;
@@ -6887,11 +6903,11 @@ span:hover {
   width: 7px;
   height: 7px;
   border-radius: 50%;
-  border: 1px solid #494CF1;
+  border: 1px solid #FA7398;
 }
 
 .block-sec .testim-box .slick-dots li.slick-active {
-  background: #494CF1;
+  background: #FA7398;
 }
 
 .block-sec .testim-box .slick-dots li button {
@@ -6940,7 +6956,7 @@ span:hover {
 }
 
 .blog .item .info .tag span {
-  color: #494CF1;
+  color: #FA7398;
 }
 
 .blog .item h5 {
@@ -7070,7 +7086,7 @@ span:hover {
 .blog-crv .item .content .info a {
   margin: 0 10px;
   font-weight: 400;
-  color: #494CF1;
+  color: #FA7398;
   font-size: 13px;
 }
 
@@ -7144,7 +7160,7 @@ span:hover {
 }
 
 .blog-grid .item .cont .info .tag {
-  color: #494CF1;
+  color: #FA7398;
   margin-left: 10px;
 }
 
@@ -7172,7 +7188,7 @@ span:hover {
   top: -40px;
   right: 15px;
   padding: 5px 15px;
-  background: #494CF1;
+  background: #FA7398;
   color: #222;
   font-size: 12px;
   font-weight: 500;
@@ -7227,13 +7243,13 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#494CF1),
+    from(#FA7398),
     color-stop(#F1D258),
-    to(#494CF1)
+    to(#FA7398)
   );
-  background: -webkit-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: -o-linear-gradient(left, #494CF1, #6ABFE9, #F1D258);
-  background: linear-gradient(to right, #494CF1, #6ABFE9, #F1D258);
+  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
+  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
   -webkit-transition: all 0.4s;
   -o-transition: all 0.4s;
   transition: all 0.4s;
@@ -7291,7 +7307,7 @@ span:hover {
 }
 
 .blog-list .item .info .tag span {
-  color: #494CF1;
+  color: #FA7398;
 }
 
 .blog-list .item h5 {
@@ -7325,7 +7341,7 @@ span:hover {
 .blog-pg .posts .item .content .tags a {
   font-size: 12px;
   font-weight: 500;
-  color: #494CF1;
+  color: #FA7398;
   padding-right: 20px;
   position: relative;
 }
@@ -7375,8 +7391,8 @@ span:hover {
 }
 
 .blog-pg .posts .pagination span.active a {
-  border-color: #494CF1;
-  color: #494CF1;
+  border-color: #FA7398;
+  color: #FA7398;
 }
 
 .blog-pg.blog-list .item {
@@ -7561,7 +7577,7 @@ span:hover {
 
 .blog-pg.single .comments-area .item .info h6 span {
   display: block;
-  color: #494CF1;
+  color: #FA7398;
   font-size: 12px;
   font-weight: 400;
   margin-top: 5px;
@@ -7662,7 +7678,7 @@ span:hover {
 }
 
 .call-action .content h6 {
-  color: #494CF1;
+  color: #FA7398;
   font-size: 13px;
   font-weight: 400;
   text-transform: uppercase;
@@ -7671,7 +7687,7 @@ span:hover {
 }
 
 .call-action .content h6 span {
-  color: #494CF1;
+  color: #FA7398;
 }
 
 .call-action .content h2 {
@@ -8072,7 +8088,7 @@ footer .item li .sm-post p {
 
 footer .item li .sm-post .date {
   font-size: 12px;
-  color: #494CF1;
+  color: #FA7398;
 }
 
 footer .item li .subscribe {
@@ -8099,7 +8115,7 @@ footer .item li .subscribe .subs {
   line-height: 50px;
   text-align: center;
   border-radius: 50%;
-  background: #494CF1;
+  background: #FA7398;
   color: #000;
 }
 
@@ -8134,7 +8150,7 @@ footer .item .copy-right p {
 }
 
 footer .item .copy-right p a {
-  color: #494CF1;
+  color: #FA7398;
 }
 
 /* ====================== [ End Footer ] ====================== */
@@ -8263,7 +8279,7 @@ footer .item .copy-right p a {
 
   .nav-scroll .navbar-collapse .active,
   .light .navbar-collapse .active {
-    color: #494CF1 !important;
+    color: #FA7398 !important;
   }
 
   .navbar .search {
@@ -8320,7 +8336,7 @@ footer .item .copy-right p a {
   }
 
   .navbar .navbar-nav .nav-link:hover {
-    color: #494CF1;
+    color: #FA7398;
   }
 
   .slider .parallax-slider .caption.dig {
