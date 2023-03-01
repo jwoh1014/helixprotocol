@@ -1,0 +1,40 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "image": "/img/team/1.jpg",
+      "title": "Keon Lee",
+      "sub": "CEO, Luna DAO"
+    },
+    {
+      "id": 2,
+      "image": "/img/team/2.jpg",
+      "title": "Patrick Oh",
+      "sub": "CEO, Luna DAO"
+    },
+    {
+      "id": 3,
+      "image": "/img/team/3.jpg",
+      "title": "Won",
+      "sub": "CEO, Luna DAO"
+    },
+    {
+      "id": 4,
+      "image": "/img/team/4.jpg",
+      "title": "Daniel",
+      "sub": "CEO, Luna DAO"
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "text": "UI / UX Design",
+      "value": "90%"
+    },
+    {
+      "id": 2,
+      "text": "Apps Development",
+      "value": "80%"
+    }
+  ]
+}
