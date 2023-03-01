@@ -12,7 +12,7 @@ const Intro4 = ({ sliderRef, blackStar }) => {
             <div className="cont text-center">
               <h1>
                 <span className="color-font">Solai</span> is the First{" "}
-                <span className="color-font">Crypto</span> community-driven{" "}
+                <span className="color-font">Crypto</span> Community-Driven{" "}
                 <span className="color-font">AI</span>{" "}
                 {/* <span className="color-font">Optional Bonds</span>  */}
               </h1>
