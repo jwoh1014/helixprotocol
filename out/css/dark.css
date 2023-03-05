@@ -172,14 +172,14 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#A359E7),
+    from(#9945FF),
     color-stop(#7785D5),
-    to(#17E6AD)
+    to(#14F195)
   );
   font-weight: 900;
-  background: -webkit-linear-gradient(left, #A359E7, #7785D5, #17E6AD);
-  background: -o-linear-gradient(left, #A359E7, #7785D5, #17E6AD);
-  background: linear-gradient(to right, #A359E7, #7785D5, #17E6AD);
+  background: -webkit-linear-gradient(left, #9945FF, #7785D5, #14F195);
+  background: -o-linear-gradient(left, #9945FF, #7785D5, #14F195);
+  background: linear-gradient(to right, #9945FF, #7785D5, #14F195);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }

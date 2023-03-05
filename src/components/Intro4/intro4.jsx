@@ -21,10 +21,10 @@ const Intro4 = ({ sliderRef, blackStar }) => {
                 powered by{" "}
                 <span
                   className="color-font1"
-                  style={{ fontFamily: "Poppins", fontSize: "36px" }}
+                  style={{ fontFamily: "Poppins", fontSize: "32px" }}
                 >
-                  {" "}
-                  Solana{" "}
+                  {" "}   <img style={{width : "220px"}} src="/img/solana.png" alt="image" />
+            
                 </span><br/>
               
              
