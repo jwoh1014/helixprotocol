@@ -121,7 +121,7 @@ const Footer = ({ hideBGCOLOR }) => {
               </div> */}
               <div className='copy-right'>
                 <p>
-                  © 2023, designed by Jaewon
+                  © 2023, designed by Solai
                   {/* <Link href='https://themeforest.net/user/themescamp/portfolio'>
                     <a target='_blank'>ThemesCamp</a>
                   </Link> */}
