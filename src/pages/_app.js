@@ -10,7 +10,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Solai | Unleash the power of locked data</title>
+        <title>Solai | The First Community-Driven AI</title>
         <link rel="icon" href="/img/favicon.png" />
         <meta
           name="keywords"
@@ -18,7 +18,7 @@ function MyApp({ Component, pageProps }) {
         />
         <meta
           name="description"
-          content="Solai | Unleash the power of locked data"
+          content="Solai | The First Community-Driven AI"
         />
         <meta property="og:image" content="/img/favicon1.png" />
       </Head>
