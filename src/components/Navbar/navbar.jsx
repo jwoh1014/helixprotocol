@@ -82,7 +82,7 @@ const Navbar = ({ lr, nr, theme }) => {
                 </Link>
               </div>
             </li> */}
-            <li className='nav-item'>
+            {/* <li className='nav-item'>
               <Link href='https://solai-game.vercel.app/' target="_blank">
               
               <a
@@ -95,7 +95,7 @@ const Navbar = ({ lr, nr, theme }) => {
                 Demo
               </a>
               </Link>
-            </li>
+            </li> */}
             <li className='nav-item'>
               {/* <Link href='https://ipdao.gitbook.io/the-luna-dao/thelunadao' target="_blank"> */}
               
