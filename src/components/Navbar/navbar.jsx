@@ -102,7 +102,7 @@ const Navbar = ({ lr, nr, theme }) => {
               <a
                 style={{ fontSize: '15px' }}
                 className='nav-link'
-                href='https://undefined-351.gitbook.io/solai-protocol/'
+                href='https://undefined-351.gitbook.io/helix-protocol/'
                 target='_blank'
                 rel='noreferrer'
               >

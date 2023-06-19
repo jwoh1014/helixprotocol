@@ -11,9 +11,9 @@ const Intro4 = ({ sliderRef, blackStar }) => {
           <div className="col-lg-10">
             <div className="cont text-center">
               <h1>
-                <span className="color-font">Solai</span> is the First{" "}
-                <span className="color-font">Crypto</span> Community-Driven{" "}
-                <span className="color-font">AI</span>{" "}
+                <span className="color-font">Helix</span> is the DEFI{" "}
+                OneStop <span className="color-font"> Gateway</span> on{" "}
+                <span className="color-font1">XRP</span> Ledger{" "}
                 {/* <span className="color-font">Optional Bonds</span>  */}
               </h1>
               <h5 style={{ fontFamily: "Poppins" }}>
@@ -23,7 +23,7 @@ const Intro4 = ({ sliderRef, blackStar }) => {
                   className="color-font1"
                   style={{ fontFamily: "Poppins", fontSize: "32px" }}
                 >
-                  {" "}   <img style={{width : "220px"}} src="/img/solana.png" alt="image" />
+                  {" "}   <img style={{width : "220px"}} src="/img/xrpl logo.png" alt="image" />
             
                 </span><br/>
               
@@ -41,7 +41,7 @@ const Intro4 = ({ sliderRef, blackStar }) => {
       />
 
       <div className="gradient-circle"></div>
-      <div className="gradient-circle two"></div>
+      <div className="gradient-circle two"></div> 
       <div className="line bottom left"></div>
     </header>
   );

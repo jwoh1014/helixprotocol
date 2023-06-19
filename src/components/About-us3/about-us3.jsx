@@ -64,7 +64,7 @@ const AboutUs3 = () => {
               <Split>
                 <p className="wow txt words chars splitting" data-splitting>
                   {AboutUs3date.content.first} <br />
-                  {AboutUs3date.content.second}
+                  {/* {AboutUs3date.content.second} */}
                 </p>
               </Split>
               {/* <Link href={`/about/about-dark`}> */}

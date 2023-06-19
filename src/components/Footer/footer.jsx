@@ -19,11 +19,11 @@ const Footer = ({ hideBGCOLOR }) => {
                   <div className='cont'>
                     <h6>Official Twitter</h6>
                     <a
-                      href='https://twitter.com/solai_protocol'
+                      href='https://twitter.com/helix_protocol'
                       target='_blank'
                       rel='noreferrer'
                     >
-                      @solai_protocol
+                      @helix_protocol
                     </a>
                   </div>
                 </li>
@@ -121,7 +121,7 @@ const Footer = ({ hideBGCOLOR }) => {
               </div> */}
               <div className='copy-right'>
                 <p>
-                  © 2023, designed by Solai
+                  © 2023, designed by Helix
                   {/* <Link href='https://themeforest.net/user/themescamp/portfolio'>
                     <a target='_blank'>ThemesCamp</a>
                   </Link> */}

@@ -76,7 +76,7 @@ body {
   line-height: 1.5;
   font-weight: 400;
   overflow-x: hidden !important;
-  font-family: 'poppins', sans-serif;
+  font-family: "poppins", sans-serif;
 }
 
 img {
@@ -157,13 +157,13 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#FA7398),
-    color-stop(#FDC15A),
-    to(#F1D258)
+    #9698ff #1f8aff #81ffd4 from(#9698ff),
+    color-stop(#1f8aff),
+    to(#81ffd4)
   );
-  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
+  background: -webkit-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: -o-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: linear-gradient(to right, #9698ff, #1f8aff, #81ffd4);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -172,30 +172,29 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#A359E7),
-    color-stop(#7785D5),
-    to(#0CF3A8)
+    from(#53bbfe),
+    color-stop(#8e9ff2),
+    to(#fd7696)
   );
   font-weight: 900;
-  background: -webkit-linear-gradient(left, #A359E7, #7785D5, #0CF3A8);
-  background: -o-linear-gradient(left, #A359E7, #7785D5, #0CF3A8);
-  background: linear-gradient(to right, #A359E7, #7785D5, #0CF3A8);
+  background: -webkit-linear-gradient(left, #53bbfe, #8e9ff2, #fd7696);
+  background: -o-linear-gradient(left, #53bbfe, #8e9ff2, #fd7696);
+  background: linear-gradient(to right, #53bbfe, #8e9ff2, #fd7696);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-
 .back-color {
   background: -webkit-gradient(
     linear,
     left top,
     right top,
-    from(#FA7398),
-    color-stop(#FDC15A),
-    to(#F1D258)
+    from(#9698ff),
+    color-stop(#1f8aff),
+    to(#81ffd4)
   );
-  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
+  background: -webkit-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: -o-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: linear-gradient(to right, #9698ff, #1f8aff, #81ffd4);
 }
 /* f64f59 */
 
@@ -207,13 +206,13 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#FA7398),
-    color-stop(#FDC15A),
-    to(#F1D258)
+    from(#9698ff),
+    color-stop(#1f8aff),
+    to(#81ffd4)
   );
-  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
+  background: -webkit-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: -o-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: linear-gradient(to right, #9698ff, #1f8aff, #81ffd4);
 }
 
 .line.top {
@@ -277,7 +276,7 @@ span:hover {
 }
 
 .main-color {
-  color: #FA7398 !important;
+  color: #9698ff !important;
 }
 
 .bg-gray {
@@ -299,7 +298,7 @@ span:hover {
 }
 
 .bg-color {
-  background-color: #FA7398 !important;
+  background-color: #9698ff !important;
 }
 
 .bg-color .primery-shadow {
@@ -1051,18 +1050,18 @@ span:hover {
   right: 100%;
   height: 100%;
   width: 100%;
-  background: #FA7398,;
+  background: #9698ff;
   background: -webkit-gradient(
     linear,
     left top,
     right top,
-    from(#FA7398),
-    color-stop(#FDC15A),
-    to(#F1D258)
+    from(#9698ff),
+    color-stop(#1f8aff),
+    to(#81ffd4)
   );
-  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
+  background: -webkit-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: -o-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: linear-gradient(to right, #9698ff, #1f8aff, #81ffd4);
 }
 
 .pace.pace-inactive {
@@ -1311,7 +1310,7 @@ span:hover {
   width: 6px;
   height: 6px;
   z-index: 10000001;
-  background-color: #FA7398;
+  background-color: #9698ff;
   -webkit-transition: width 0.3s ease-in-out, height 0.3s ease-in-out,
     margin 0.3s ease-in-out, opacity 0.3s ease-in-out;
   -o-transition: width 0.3s ease-in-out, height 0.3s ease-in-out,
@@ -1325,7 +1324,7 @@ span:hover {
   margin-top: -35px;
   width: 70px;
   height: 70px;
-  background-color: #FA7398;
+  background-color: #9698ff;
   opacity: 0.3;
 }
 
@@ -1334,7 +1333,7 @@ span:hover {
   margin-top: -12px;
   width: 30px;
   height: 30px;
-  border: 1px solid #FA7398;
+  border: 1px solid #9698ff;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   z-index: 10000000;
@@ -1386,7 +1385,7 @@ span:hover {
   line-height: 44px;
   font-size: 13px;
   font-weight: 900;
-  color: #FA7398;
+  color: #9698ff;
   left: 0;
   top: 0;
   height: 44px;
@@ -1404,7 +1403,7 @@ span:hover {
 }
 
 .progress-wrap svg.progress-circle path {
-  stroke: #FA7398;
+  stroke: #9698ff;
   stroke-width: 4;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -1618,13 +1617,13 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#FA7398),
-    color-stop(#FDC15A),
-    to(#F1D258)
+    from(#9698ff),
+    color-stop(#1f8aff),
+    to(#81ffd4)
   );
-  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
+  background: -webkit-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: -o-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: linear-gradient(to right, #9698ff, #1f8aff, #81ffd4);
   padding: 7px 12px;
   border-radius: 10px;
 }
@@ -1722,13 +1721,13 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#FA7398),
-    color-stop(#FDC15A),
-    to(#F1D258)
+    from(#9698ff),
+    color-stop(#1f8aff),
+    to(#81ffd4)
   );
-  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
+  background: -webkit-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: -o-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: linear-gradient(to right, #9698ff, #1f8aff, #81ffd4);
   border: transparent;
 }
 
@@ -1812,7 +1811,7 @@ span:hover {
 
 .navbar .navbar-nav .dropdown-item:hover {
   background: transparent;
-  color: #FA7398;
+  color: #9698ff;
 }
 
 .navbar .dropdown-menu {
@@ -1852,7 +1851,7 @@ span:hover {
   content: "";
   width: 0px;
   height: 1px;
-  background: #FA7398;
+  background: #9698ff;
   position: absolute;
   left: 10px;
   top: 50%;
@@ -1907,7 +1906,7 @@ span:hover {
   text-align: left;
   background: transparent;
   border: 0;
-  border-bottom: 2px solid #FA7398;
+  border-bottom: 2px solid #9698ff;
 }
 
 .navbar .search .search-form .close {
@@ -1921,7 +1920,6 @@ span:hover {
 }
 
 .navbar .logo {
-
   width: 50px;
 }
 
@@ -2353,7 +2351,7 @@ span:hover {
 }
 
 .slider .parallax-slider .caption .thin {
-  color: #FA7398;
+  color: #9698ff;
   font-size: 30px;
   font-weight: 300;
   text-transform: uppercase;
@@ -2372,7 +2370,7 @@ span:hover {
 }
 
 .slider .parallax-slider .caption .thin span {
-  color: #FA7398;
+  color: #9698ff;
 }
 
 .slider .parallax-slider .caption h1 {
@@ -2639,13 +2637,13 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#FA7398),
-    color-stop(#FDC15A),
-    to(#F1D258)
+    from(#9698ff),
+    color-stop(#1f8aff),
+    to(#81ffd4)
   );
-  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
+  background: -webkit-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: -o-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: linear-gradient(to right, #9698ff, #1f8aff, #81ffd4);
   border-radius: 15px;
   -webkit-transform: rotate(-3deg);
   -ms-transform: rotate(-3deg);
@@ -2759,13 +2757,13 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#FA7398),
-    color-stop(#FDC15A),
-    to(#F1D258)
+    from(#9698ff),
+    color-stop(#1f8aff),
+    to(#81ffd4)
   );
-  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
+  background: -webkit-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: -o-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: linear-gradient(to right, #9698ff, #1f8aff, #81ffd4);
   z-index: -2;
 }
 
@@ -2839,13 +2837,13 @@ span:hover {
     linear,
     right top,
     left top,
-    from(#FA7398),
-    color-stop(#FDC15A),
-    to(#F1D258)
+    from(#9698ff),
+    color-stop(#1f8aff),
+    to(#81ffd4)
   );
-  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
+  background: -webkit-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: -o-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: linear-gradient(to right, #9698ff, #1f8aff, #81ffd4);
   position: absolute;
   top: -5px;
   left: -5px;
@@ -3356,7 +3354,7 @@ span:hover {
   font-size: 20px;
   font-weight: 300;
   text-transform: capitalize;
-  color: #FA7398;
+  color: #9698ff;
 }
 
 .works-header .capt .bactxt {
@@ -3407,10 +3405,10 @@ span:hover {
   width: 500px;
   height: 500px;
   border-radius: 70%;
-  background-image: -webkit-linear-gradient(45deg, #FA7398, #F1D258);
-  background-image: -o-linear-gradient(45deg, #FA7398, #F1D258);
-  background-image: linear-gradient(45deg, #FA7398, #F1D258);
-  opacity: 0.3;
+  background-image: -webkit-linear-gradient(45deg, #059dff, #36c6f0);
+  background-image: -o-linear-gradient(45deg, #059dff, #36c6f0);
+  background-image: linear-gradient(45deg, #059dff, #36c6f0);
+  opacity: 0.25;
   -webkit-filter: blur(100px);
   filter: blur(100px);
 }
@@ -3420,9 +3418,9 @@ span:hover {
   top: -250px;
   right: -250px;
   bottom: auto;
-  background-image: -webkit-linear-gradient(45deg, #F1D258, #FA7398);
-  background-image: -o-linear-gradient(45deg, #F1D258, #FA7398);
-  background-image: linear-gradient(45deg, #F1D258, #FA7398);
+  background-image: -webkit-linear-gradient(45deg, #fb5343, #6549d5);
+  background-image: -o-linear-gradient(45deg, #fb5343, #6549d5);
+  background-image: linear-gradient(45deg, #fb5343, #6549d5);
 }
 
 .main-content {
@@ -3858,7 +3856,7 @@ span:hover {
 }
 
 .about .ftbox ul li .icon {
-  color: #FA7398;
+  color: #9698ff;
   font-size: 30px;
   margin-bottom: 20px;
 }
@@ -3972,7 +3970,7 @@ span:hover {
 }
 
 .agency .img .icon svg {
-  fill: #FA7398;
+  fill: #9698ff;
   width: 90px;
 }
 
@@ -3993,7 +3991,7 @@ span:hover {
   content: "";
   width: 30px;
   height: 1px;
-  background: #FA7398;
+  background: #9698ff;
   position: absolute;
   left: -40px;
   top: 45%;
@@ -4046,13 +4044,13 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#FA7398),
-    color-stop(#FDC15A),
-    to(#F1D258)
+    from(#9698ff),
+    color-stop(#1f8aff),
+    to(#81ffd4)
   );
-  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
+  background: -webkit-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: -o-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: linear-gradient(to right, #9698ff, #1f8aff, #81ffd4);
   z-index: -2;
 }
 
@@ -4274,7 +4272,7 @@ span:hover {
 .intro-section .htit span {
   font-size: 17px;
   font-weight: 300;
-  color: #FA7398;
+  color: #9698ff;
   margin-right: 5px;
 }
 
@@ -4428,13 +4426,13 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#FA7398),
-    color-stop(#FDC15A),
-    to(#F1D258)
+    from(#9698ff),
+    color-stop(#1f8aff),
+    to(#81ffd4)
   );
-  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
+  background: -webkit-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: -o-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: linear-gradient(to right, #9698ff, #1f8aff, #81ffd4);
   z-index: -1;
   opacity: 0.05;
 }
@@ -4491,7 +4489,7 @@ span:hover {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #FA7398;
+  background: #9698ff;
   -webkit-transition: all 0.4s;
   -o-transition: all 0.4s;
   transition: all 0.4s;
@@ -4505,7 +4503,7 @@ span:hover {
 
 .services .mas-item .icon {
   font-size: 45px;
-  color: #FA7398;
+  color: #9698ff;
   margin-bottom: 30px;
 }
 
@@ -4553,18 +4551,18 @@ span:hover {
 }
 
 .services .step-item .icon {
-  color: #FA7398;
+  color: #9698ff;
   background: -webkit-gradient(
     linear,
     left top,
     right top,
-    from(#FA7398),
-    color-stop(#FDC15A),
-    to(#F1D258)
+    from(#9698ff),
+    color-stop(#1f8aff),
+    to(#81ffd4)
   );
-  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
+  background: -webkit-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: -o-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: linear-gradient(to right, #9698ff, #1f8aff, #81ffd4);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-size: 40px;
@@ -4583,7 +4581,7 @@ span:hover {
 }
 
 .services .item .icon {
-  color: #FA7398;
+  color: #9698ff;
   font-size: 40px;
   margin-bottom: 40px;
 }
@@ -4642,13 +4640,13 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#FA7398),
-    color-stop(#FDC15A),
-    to(#F1D258)
+    from(#9698ff),
+    color-stop(#1f8aff),
+    to(#81ffd4)
   );
-  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
+  background: -webkit-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: -o-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: linear-gradient(to right, #9698ff, #1f8aff, #81ffd4);
   z-index: -2;
   opacity: 0;
   -webkit-transition: all 0.4s;
@@ -4872,13 +4870,13 @@ span:hover {
 }
 
 .min-area .content ul.feat li h6 span {
-  color: #FA7398;
+  color: #9698ff;
   width: 30px;
   height: 30px;
   line-height: 30px;
   text-align: center;
   font-size: 13px;
-  border: 1px solid #FA7398;
+  border: 1px solid #9698ff;
   border-radius: 50%;
   margin-right: 10px;
 }
@@ -5038,14 +5036,14 @@ span:hover {
 }
 
 .portfolio .filtering span.active {
-  color: #FA7398;
+  color: #9698ff;
 }
 
 .portfolio .filtering span:after {
   content: "";
   width: 7px;
   height: 7px;
-  background: #FA7398;
+  background: #9698ff;
   border-radius: 50%;
   position: absolute;
   right: -24px;
@@ -5074,14 +5072,14 @@ span:hover {
 }
 
 .portfolio .filtering.smplx span.active {
-  color: #FA7398;
+  color: #9698ff;
 }
 
 .portfolio .filtering.smplx span:after {
   content: "";
   width: 7px;
   height: 7px;
-  background: #FA7398;
+  background: #9698ff;
   border-radius: 50%;
   position: absolute;
   right: -24px;
@@ -5278,7 +5276,7 @@ span:hover {
   content: "";
   width: 100%;
   height: 2px;
-  background-color: #FA7398;
+  background-color: #9698ff;
   position: absolute;
   left: 0;
   bottom: -10px;
@@ -5289,7 +5287,7 @@ span:hover {
 }
 
 .portfolio-cr .filtering .active {
-  color: #FA7398;
+  color: #9698ff;
 }
 
 .portfolio-cr .filtering .active:after {
@@ -5382,7 +5380,7 @@ span:hover {
   content: "";
   width: 100%;
   height: 2px;
-  background-color: #FA7398;
+  background-color: #9698ff;
   position: absolute;
   left: 0;
   bottom: -10px;
@@ -5393,7 +5391,7 @@ span:hover {
 }
 
 .portfolio-frl .filtering .active {
-  color: #FA7398;
+  color: #9698ff;
 }
 
 .portfolio-frl .filtering .active:after {
@@ -6081,7 +6079,7 @@ span:hover {
   position: absolute;
   content: "";
   width: 75px;
-  border-top: 2px dashed #FA7398;
+  border-top: 2px dashed #9698ff;
   top: 75px;
   right: -35px;
 }
@@ -6196,13 +6194,13 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#FA7398),
-    color-stop(#F1D258),
-    to(#FA7398)
+    from(#9698ff),
+    color-stop(#81ffd4),
+    to(#9698ff)
   );
-  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
+  background: -webkit-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: -o-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: linear-gradient(to right, #9698ff, #1f8aff, #81ffd4);
   -webkit-transition: all 1.5s;
   -o-transition: all 1.5s;
   transition: all 1.5s;
@@ -6253,7 +6251,7 @@ span:hover {
   top: 50%;
   width: 5px;
   height: 1px;
-  background: #FA7398;
+  background: #9698ff;
 }
 
 /* ====================== [ Start tabs & list ] ====================== */
@@ -6300,13 +6298,13 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#FA7398),
-    color-stop(#F1D258),
-    to(#FA7398)
+    from(#9698ff),
+    color-stop(#81ffd4),
+    to(#9698ff)
   );
-  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
+  background: -webkit-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: -o-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: linear-gradient(to right, #9698ff, #1f8aff, #81ffd4);
   opacity: 0;
   z-index: -1;
   -webkit-transition: all 0.7s;
@@ -6341,7 +6339,7 @@ span:hover {
 
 .team .item.cir .info span {
   font-size: 13px;
-  color: #FA7398;
+  color: #9698ff;
 }
 
 .team .item .img {
@@ -6378,13 +6376,13 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#FA7398),
-    color-stop(#F1D258),
-    to(#FA7398)
+    from(#9698ff),
+    color-stop(#81ffd4),
+    to(#9698ff)
   );
-  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
+  background: -webkit-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: -o-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: linear-gradient(to right, #9698ff, #1f8aff, #81ffd4);
   opacity: 0;
   z-index: -1;
   -webkit-transition: all 0.7s;
@@ -6393,7 +6391,7 @@ span:hover {
 }
 
 .team.bord .item:hover .img:after {
-  border-color: #FA7398;
+  border-color: #9698ff;
   opacity: 1;
   -webkit-transform: rotate(0deg) !important;
   -ms-transform: rotate(0deg) !important;
@@ -6436,7 +6434,7 @@ span:hover {
 
 .team.bord .item .info span {
   font-size: 13px;
-  color: #FA7398;
+  color: #9698ff;
 }
 
 .team .slick-dots {
@@ -6444,7 +6442,7 @@ span:hover {
 }
 
 .team .slick-dots li.slick-active button {
-  background: #FA7398;
+  background: #9698ff;
 }
 
 .team .slick-dots li button {
@@ -6463,7 +6461,7 @@ span:hover {
   top: 4px;
   left: 4px;
   line-height: 1;
-  background: #FA7398;
+  background: #9698ff;
   opacity: 1;
 }
 
@@ -6714,7 +6712,7 @@ span:hover {
 
 .testimonials .arrows .next:hover,
 .testimonials .arrows .prev:hover {
-  border-color: #FA7398;
+  border-color: #9698ff;
 }
 
 .testimonials .arrows .prev {
@@ -6823,13 +6821,13 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#FA7398),
-    color-stop(#F1D258),
-    to(#FA7398)
+    from(#9698ff),
+    color-stop(#81ffd4),
+    to(#9698ff)
   );
-  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
+  background: -webkit-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: -o-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: linear-gradient(to right, #9698ff, #1f8aff, #81ffd4);
   z-index: -4;
 }
 
@@ -6845,7 +6843,7 @@ span:hover {
 }
 
 .block-sec .testim-box .head-box h6 {
-  color: #FA7398;
+  color: #9698ff;
   font-size: 12px;
   font-weight: 300;
   text-transform: uppercase;
@@ -6903,11 +6901,11 @@ span:hover {
   width: 7px;
   height: 7px;
   border-radius: 50%;
-  border: 1px solid #FA7398;
+  border: 1px solid #9698ff;
 }
 
 .block-sec .testim-box .slick-dots li.slick-active {
-  background: #FA7398;
+  background: #9698ff;
 }
 
 .block-sec .testim-box .slick-dots li button {
@@ -6956,7 +6954,7 @@ span:hover {
 }
 
 .blog .item .info .tag span {
-  color: #FA7398;
+  color: #9698ff;
 }
 
 .blog .item h5 {
@@ -7086,7 +7084,7 @@ span:hover {
 .blog-crv .item .content .info a {
   margin: 0 10px;
   font-weight: 400;
-  color: #FA7398;
+  color: #9698ff;
   font-size: 13px;
 }
 
@@ -7160,7 +7158,7 @@ span:hover {
 }
 
 .blog-grid .item .cont .info .tag {
-  color: #FA7398;
+  color: #9698ff;
   margin-left: 10px;
 }
 
@@ -7188,7 +7186,7 @@ span:hover {
   top: -40px;
   right: 15px;
   padding: 5px 15px;
-  background: #FA7398;
+  background: #9698ff;
   color: #222;
   font-size: 12px;
   font-weight: 500;
@@ -7243,13 +7241,13 @@ span:hover {
     linear,
     left top,
     right top,
-    from(#FA7398),
-    color-stop(#F1D258),
-    to(#FA7398)
+    from(#9698ff),
+    color-stop(#81ffd4),
+    to(#9698ff)
   );
-  background: -webkit-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: -o-linear-gradient(left, #FA7398, #FDC15A, #F1D258);
-  background: linear-gradient(to right, #FA7398, #FDC15A, #F1D258);
+  background: -webkit-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: -o-linear-gradient(left, #9698ff, #1f8aff, #81ffd4);
+  background: linear-gradient(to right, #9698ff, #1f8aff, #81ffd4);
   -webkit-transition: all 0.4s;
   -o-transition: all 0.4s;
   transition: all 0.4s;
@@ -7307,7 +7305,7 @@ span:hover {
 }
 
 .blog-list .item .info .tag span {
-  color: #FA7398;
+  color: #9698ff;
 }
 
 .blog-list .item h5 {
@@ -7341,7 +7339,7 @@ span:hover {
 .blog-pg .posts .item .content .tags a {
   font-size: 12px;
   font-weight: 500;
-  color: #FA7398;
+  color: #9698ff;
   padding-right: 20px;
   position: relative;
 }
@@ -7391,8 +7389,8 @@ span:hover {
 }
 
 .blog-pg .posts .pagination span.active a {
-  border-color: #FA7398;
-  color: #FA7398;
+  border-color: #9698ff;
+  color: #9698ff;
 }
 
 .blog-pg.blog-list .item {
@@ -7577,7 +7575,7 @@ span:hover {
 
 .blog-pg.single .comments-area .item .info h6 span {
   display: block;
-  color: #FA7398;
+  color: #9698ff;
   font-size: 12px;
   font-weight: 400;
   margin-top: 5px;
@@ -7678,7 +7676,7 @@ span:hover {
 }
 
 .call-action .content h6 {
-  color: #FA7398;
+  color: #9698ff;
   font-size: 13px;
   font-weight: 400;
   text-transform: uppercase;
@@ -7687,7 +7685,7 @@ span:hover {
 }
 
 .call-action .content h6 span {
-  color: #FA7398;
+  color: #9698ff;
 }
 
 .call-action .content h2 {
@@ -8088,7 +8086,7 @@ footer .item li .sm-post p {
 
 footer .item li .sm-post .date {
   font-size: 12px;
-  color: #FA7398;
+  color: #9698ff;
 }
 
 footer .item li .subscribe {
@@ -8115,7 +8113,7 @@ footer .item li .subscribe .subs {
   line-height: 50px;
   text-align: center;
   border-radius: 50%;
-  background: #FA7398;
+  background: #9698ff;
   color: #000;
 }
 
@@ -8150,7 +8148,7 @@ footer .item .copy-right p {
 }
 
 footer .item .copy-right p a {
-  color: #FA7398;
+  color: #9698ff;
 }
 
 /* ====================== [ End Footer ] ====================== */
@@ -8279,7 +8277,7 @@ footer .item .copy-right p a {
 
   .nav-scroll .navbar-collapse .active,
   .light .navbar-collapse .active {
-    color: #FA7398 !important;
+    color: #9698ff !important;
   }
 
   .navbar .search {
@@ -8336,7 +8334,7 @@ footer .item .copy-right p a {
   }
 
   .navbar .navbar-nav .nav-link:hover {
-    color: #FA7398;
+    color: #9698ff;
   }
 
   .slider .parallax-slider .caption.dig {

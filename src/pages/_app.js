@@ -10,15 +10,15 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Solai | The First Community-Driven AI</title>
+        <title>Helix | Onestop DEFI Gateway on XRPL</title>
         <link rel="icon" href="/img/favicon.png" />
         <meta
           name="keywords"
-          content="HTML5 dao nft crypto investment aptos sui plowave investmentdao"
+          content="HTML5 dao nft crypto launchpad xrpl helix helixprotocol ico ido"
         />
         <meta
           name="description"
-          content="Solai | The First Community-Driven AI"
+          content="Helix | Onestop DEFI Gateway on XRPL"
         />
         <meta property="og:image" content="/img/favicon1.png" />
       </Head>

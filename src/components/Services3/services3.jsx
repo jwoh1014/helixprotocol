@@ -15,7 +15,7 @@ const Services3 = () => {
               <h6 className="wow fadeIn" data-wow-delay=".5s">
                 Organization
               </h6>
-              <h3 className="wow color-font">How is Solai structured?</h3>
+              <h3 className="wow color-font">How is Helix structured?</h3>
             </div>
           </div>
         </div>
@@ -27,12 +27,10 @@ const Services3 = () => {
               </span>
               <h5>Structure</h5>
               <p>
-                Anybody can propose any task that one wants to train. If the
-                proposal is passed, training starts. Using the Federated
-                Learning scheme, every participant independently locally trains
-                AI models on their device. AI models are uploaded in
-                decentralized storage and are recorded on the blockchain in an
-                NFT format.
+                Helix enables the easily accessible experience of launchpad
+                through Helix Aggregator and Helix Gateway, sustainable
+                exchanges between long-term value providers and their consumers
+                through customizable deposit contracts, and yield redirection.
               </p>
               {/* <Link href="/about/about-dark">
                 <a className="more-stroke">
@@ -46,12 +44,12 @@ const Services3 = () => {
               <span className="icon">
                 <i className="ion-ios-color-wand"></i>
               </span>
-              <h5>Operations</h5>
+              <h5>Helix Aggregator</h5>
               <p>
-                Participants are able to evaluate other uploaded models with
-                their data and record the evaluation score on the chain. After
-                the number of evaluations meets a certain threshold, the local
-                model is a candidate for being aggregated into a global model.
+                Helix Aggregator includes three projects, which are thoroughly
+                organized by the Helix community. Through community consent, the
+                three projects with the highest consent rate among the candidate
+                group will be incorporated into the fund.
               </p>
               {/* <Link href="/about/about-dark">
                 <a className="more-stroke">
@@ -65,13 +63,13 @@ const Services3 = () => {
               <span className="icon">
                 <i className="ion-ios-bolt-outline"></i>
               </span>
-              <h5>Transparency</h5>
+              <h5>Helix Gateway</h5>
               <p>
-                Due to Blockchain's structure, records of compensation are
-                released. In addition, participants will only participate in the
-                study if they can be verified and deemed valid. Therefore, it is
-                good to keep and manage the license of the temper-proof model
-                and provide incentives by managing it in token form.
+                Helix Gateway, users can deposit XRPL native assets and spend
+                accrued yields on platform services and content offerings. Upon
+                subscription expiry, users can withdraw their principal in full.
+                Platforms can easily integrate the "Deposit with Helix" widget
+                in 10 lines of code.
               </p>
               {/* <Link href="/about/about-dark">
                 <a className="more-stroke">
@@ -85,13 +83,13 @@ const Services3 = () => {
               <span className="icon">
                 <i className="ion-unlocked"></i>
               </span>
-              <h5>Users</h5>
+              <h5>User First</h5>
               <p>
-                Through Federated Learning and Differential Privacy,
-                participants are provided with appropriate
-                compensation/ownership as much as they contributed to the
-                model's learning. In addition, participation in learning is
-                possible without infringement of privacy in Solai.
+                Helix is designed with everything focused on User Experience
+                Optimization. Reimagining the future of recurring payments and
+                providing convenient platform integrations for the mainstream
+                adoption of crypto, Helix aims to become a must-have feature of
+                the DeFi future.
               </p>
               {/* <Link href="/about/about-dark">
                 <a className="more-stroke">
@@ -100,7 +98,6 @@ const Services3 = () => {
               </Link> */}
             </div>
           </div>
- 
         </div>
       </div>
     </section>

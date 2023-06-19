@@ -27,29 +27,26 @@ const MinimalArea2 = () => {
             <div className="content">
               <h4>
                 {" "}
-                <span className="color-font1">SOLANA. </span>
+                The First
                 <br />
-                <span className="color-font">Blockchain & AI</span>
-                <br /> <span className="color-font">SOLAI.</span>{" "}
+                DEFI Hub on <span className="color-font1">XRPL</span>,
+                <br /> <span className="color-font">Helix</span>{" "}
               </h4>
               {/* <Split> */}
               <p className="wow txt words chars splitting" data-splitting>
-                Through federated learning, local data is processed on client
-                devices, so the central server does not collect data. This
-                provides privacy benefits. Additionally, learning on client
-                devices allows the model to learn from more diverse data
-                compared to centralized learning, using distributed data.
-                Federated learning can also effectively work on large datasets
-                because learning is performed on local data.
+                As a promising future standard of programmable payments, Helix
+                introduces a new paradigm of incentive alignment between payers
+                and payees, consumers and builders, patrons and artists,
+                investors and entrepreneurs, borrowers and lenders, and many
+                more groups and relationships.
               </p>
               {/* </Split> */}
               <ul>
                 <li className="wow fadeInUp" data-wow-delay=".2s">
-                  Provides new utilities and layers for existing data.
+                We offer a Helix Aggregator comprising multiple XRPL projects. It is a fund for several projects in a similar sector, and for investors.
                 </li>
                 <li className="wow fadeInUp" data-wow-delay=".4s">
-                  Solai is a next generation decentralized AI owned by the
-                  community.
+                We will provide a Helix Gateway that can support a specific project only with a lending apy. 
                 </li>
               </ul>
               {/* <Link href={`/about/about-dark`}>
